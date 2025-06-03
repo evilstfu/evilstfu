@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evilstfu.
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently learning C#, Java
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate with other programming students to create first collaborative projects.
 - 📫 How to reach me evillucky@mail.ru or tg https://t.me/EvilLucky 
 
